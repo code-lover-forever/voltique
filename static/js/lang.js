@@ -23,7 +23,7 @@ const translations = {
       "Transformez la lumière du soleil en énergie fiable avec des systèmes de batterie optimisés.",
     "about-title": "À propos de Voltiques",
     "about-desc":
-      "Fondateur et CEO <strong>KUMAR Naresh</strong>, Voltiques propose des solutions adaptées qui équilibrent performance et durabilité. Nous travaillons avec les propriétaires, les gestionnaires de biens et les entreprises pour créer des systèmes énergétiques résilients qui économisent de l'argent et réduisent le carbone.",
+      "Fondateur et CEO <strong>KUMAR Naresh</strong> et S'associer à <strong>Rawinderpal Singh (Happy)</strong>, Voltiques propose des solutions adaptées qui équilibrent performance et durabilité. Nous travaillons avec les propriétaires, les gestionnaires de biens et les entreprises pour créer des systèmes énergétiques résilients qui économisent de l'argent et réduisent le carbone.",
     "partners-title": "Partenaires de confiance",
     "partners-desc":
       "Nous collaborons avec les principaux fabricants d'équipements et fournisseurs de financement pour offrir la meilleure valeur à nos clients.",
@@ -100,7 +100,7 @@ const translations = {
       "Turn sunlight into reliable power with optimized battery systems.",
     "about-title": "About Voltiques",
     "about-desc":
-      "Founder and CEO <strong>KUMAR Naresh</strong>, Voltiques delivers tailored solutions that balance performance with sustainability. We work with homeowners, property managers and enterprises to create resilient energy systems that save money and cut carbon.",
+      "Founder and CEO <strong>KUMAR Naresh</strong> and associate <strong>Rawinderpal Singh (Happy)</strong>, Voltiques delivers tailored solutions that balance performance with sustainability. We work with homeowners, property managers and enterprises to create resilient energy systems that save money and cut carbon.",
     "partners-title": "Trusted partners",
     "partners-desc":
       "We partner with leading equipment manufacturers and financing providers to bring the best value to our customers.",
